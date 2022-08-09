@@ -1,8 +1,7 @@
-### Hi there 👋
+### HOLA  
 
 <!--
-**presentacion maestros docentes infantil rosado
-Aquí hay algunas ideas para comenzar:
+** Soy estudiante de Ingenieria Biomedica  
 
 - 🔭 Actualmente estoy trabajando en...
 - 🌱 Actualmente estoy aprendiendo...
