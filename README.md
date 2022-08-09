@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--presentacion maestros docentes infantil rosado
-**
+<!--
+**presentacion maestros docentes infantil rosado
 Aquí hay algunas ideas para comenzar:
 
 - 🔭 Actualmente estoy trabajando en...
